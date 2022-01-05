@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on servic
 - 📫 How to reach me ordilov@gmail.com
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ordilov&repo=github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ordilov)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=inhoo)](https://solved.ac/inhoo)
 <!---
